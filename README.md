@@ -1,4 +1,4 @@
-## Hi there 👋
+## Full Stack Developer (Django, React, PostgreSQL)
 
 <!--
 **m-a-y-h/m-a-y-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
